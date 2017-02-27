@@ -1,0 +1,21 @@
+<!doctype html>
+
+<html lang="en">
+     <head>
+       <meta charset="utf-8">
+       <title>Portfolio</title>
+      </head>
+   <body>
+   <a href="index.html">Home</a>
+   <a href="portfolio.html">Portfolio</a>
+   <h1>This is my Portfolio Page!</h1>
+   <img src="images/portfolio.jpg" height="100">
+   <img src="images/Percy-Jackson-The-Lightning-Thief-Original-Cover.jpg"  height="250">
+   <img src="images/percy.jpg" height="250">
+   <img src="images/th6TT6NLBZ.jpg" height="250">
+   <br>
+   <a target="_blank" href="https://scratch.mit.edu">
+   <img src="images/scratchlogo.png" height="60">
+</a>
+</body>
+</html>
